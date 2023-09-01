@@ -1,1 +1,1 @@
-User CRUD műveletek végrehajtása React frontend, Laravel backend és MySQL adatbázis segítségével.
+User CRUD műveletek végrehajtása, bejelentkezés és regisztráció React frontend, Laravel backend és MySQL adatbázis segítségével.
